@@ -1,59 +1,18 @@
-<h1 align="center">Hi 👋, I'm Armaan Mulani!</h1>
-<h3 align="center">A Passionate Engineering Student & Web Developer From India</h3>
+# 💫 About Me:
+I'm currently working on Java Spring and Spring Boot<br>👯 I’m looking to collaborate on Open Source Projects<br>💬 Ask me about Java, Python, and React<br>⚽ Fun fact: I love Football, Photography, Drawing, and Chess<br>📫 How to reach me: armaanmulani941@gmail.com
 
----
 
-- 🌱 I’m currently learning **Full Stack Web Development & DSA**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C++, Python, and React**
-- ⚽ Fun fact: I love **Football, Photography, Drawing, and Chess**
-- 📫 How to reach me: **armaanmulani941@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan941) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armaanmulani941@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=armaan941&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=armaan941&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=armaan941&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/armaan941/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 💻 Front End Tech Stack
-<p align="left">
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /></a>
-<a href="https://react.dev/learn" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /></a>
-<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/docs/installation/using-vite" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" /></a>
-</p>
-
-### ⚙️ Back End Tech Stack
-<p align="left">
-<a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" /></a>
-<a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase" /></a>
-</p>
-
-### 🧩 Languages and Libraries
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /></a>
-<a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /></a>
-<a href="https://www.w3schools.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /></a>
-</p>
-
-### 🧰 Other Tools and Technologies
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" /></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" /></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" /></a>
-</p>
-
----
-
-<h3 align="center">“Code. Create. Capture. — Every idea deserves a line of code.”</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

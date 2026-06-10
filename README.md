@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **armaanmulani941@gmail.com**
 
-- 📄 Know about my experiences ![MyResume](https://github.com/user-attachments/files/28778746/Armaan_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/user-attachments/files/28778746/Armaan_Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 

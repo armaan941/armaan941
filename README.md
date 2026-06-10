@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud-native applications, API gateways, and projects focused on secure backend workflows, token authentication, and Docker containerization.**
 
-- 📫 How to reach me **armaanmulani941@gmail.com**
+- 📫 How to reach me **armaan.mulani@outlook.com**
 
 - 📄 Know about my experiences **[armaan mulani resume.pdf](https://github.com/user-attachments/files/28795178/Armaan.Mulani.Resume.pdf)**
 

@@ -38,7 +38,5 @@ When I'm not coding, you'll probably find me solving DSA problems, exploring new
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/armaan941/fitness-app-microservices" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=armaan941&repo=fitness-app-microservices&title_color=f97316&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/armaan941/ecommerce-microservices-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=armaan941&repo=ecommerce-microservices-app&title_color=f97316&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/armaan941/wanderlust" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=armaan941&repo=wanderlust&title_color=f97316&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+

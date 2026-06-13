@@ -15,7 +15,7 @@ When I'm not coding, you'll probably find me solving DSA problems, exploring new
 * 🚀  I'm currently working on [ecommerce-microservices-app](https://github.com/armaan941/ecommerce-microservices-app)
 * 🧠  I'm currently learning Spring AI and IoT Integration
 * 👥  I'm looking to collaborate on Java Spring Projects
-* 📃 Download [my resume](https://github.com/user-attachments/files/28891694/Armaan.Mulani.Resume-1.pdf)
+* 📃 Download [my resume](https://github.com/user-attachments/files/28909613/Armaan.Mulani.Resume.pdf)
 * 💬  Ask me about I think I am funny :)
 
 <p align="left">

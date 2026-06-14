@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **armaan.mulani@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10uwj3CZdNVbSgp1O8uB3QdUbfWQCau4y/view?usp=sharing](https://drive.google.com/file/d/10uwj3CZdNVbSgp1O8uB3QdUbfWQCau4y/view?usp=sharing)
+- 📄 Know about my experiences [open link](https://drive.google.com/file/d/10uwj3CZdNVbSgp1O8uB3QdUbfWQCau4y/view?usp=sharing)
 
 - ⚡ Fun fact **I'm good at Football :)**
 
